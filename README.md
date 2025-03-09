@@ -13,6 +13,7 @@ This project was done as part of a deep learning course at university.
 
 ## Attention-based_CNN_for_Cloud_Segmentation.pdf
 - The paper explaining the dataset, the proposed model architecture, etc.
+- [View the PDF](Attention-based_CNN_for_Cloud_Segmentation.pdf)
 
 ## cloud_detection.ipynb
 - The file which contains all the finalized code for loading the processed 95-Cloud dataset, defining the model architecture, training the model, saving the model state, etc
